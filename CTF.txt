@@ -1,0 +1,1 @@
+php artisan code6:user-add 845322406@qq.com 123321
